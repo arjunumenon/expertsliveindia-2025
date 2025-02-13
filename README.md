@@ -1,14 +1,14 @@
-# SESSION NAME
+# Experts Live India - 2025
 
-This repository has the artifacts which is used by Arjun Menon in SESSION for the session **TOPIC NAME**
+This repository has the artifacts which is used by Arjun Menon in Experts Live India - 2025 for the session **CLI for Microsoft 365 - Your swiss army knife for M365 workloads & Productivity**
 
 ## Session Information
 
-Session Link : [Session Name](https://arjunumenon.com)
+Session Link : [Experts Live India - 2025](https://konfhub.com/experts-live-india-2025)
 
 ### Session Poster
 
-![Session Poster](<assets/M365 Copilot Summit - Bengaluru.png>)
+![Session Poster](<assets/ELI 25 - Arjun Menon.png>)
 
 ## Session Abstract
 

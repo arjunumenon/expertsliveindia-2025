@@ -1,6 +1,6 @@
-# SESSION NAME
+# Experts Live India - 2025
 
-This repository has the codes which is used by Arjun Menon in SESSION for the session **TOPIC NAME**
+This repository has the codes which is used by Arjun Menon in Experts Live India - 2025 for the session **CLI for Microsoft 365 - Your swiss army knife for M365 workloads & Productivity**
 
 ## Pre-requisites
 
